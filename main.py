@@ -6,7 +6,7 @@ import json
 # Constants
 g = 9.81
 air_density = 1.225
-# cats
+
 
 # Gun and bullet properties
 gun_height = 1
